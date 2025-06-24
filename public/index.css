@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NotoSansRegular';
+  src: url(../fonts/NotoSans-Regular.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+    font-family: 'NotoSansRegular';
+    text-align: center;
+    background-color: azure;
+}
